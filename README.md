@@ -1,5 +1,19 @@
 # TIL 하루동안 배운 것 정리하기.
 
+> Node
+
+- 기본 셋팅
+
+  [기본환경설정]()
+
+  [DB 연결]()
+
+  [User Model 생성]()
+
+  [Body Parser]()
+
+  [Nodemon]()
+
 > Spring
 
 - JPA
