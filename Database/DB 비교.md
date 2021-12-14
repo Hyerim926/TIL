@@ -11,8 +11,8 @@
 - 고성능 하드웨어는 가격이 비싸서, RDB의 성능을 높이거나 확장하기 어렵기 때문에 확장성이 좋지 않다. -참고로 PostreSql은 ORDBMS로 객체-관계 데이터베이스이다.
 
 > ## 2. NoSQL(Not only SQL)
->
-> `mongoDB` `hBase`등이 대표적. `mongoDB`의 경우 문서(document)형 데이터베이스이다. `Key-Value`형식으로 나타난다.
+
+`mongoDB` `hBase`등이 대표적. `mongoDB`의 경우 문서(document)형 데이터베이스이다. `Key-Value`형식으로 나타난다.
 
 ### 특징
 
@@ -25,8 +25,8 @@
 - 대표적으로 MongoDB(document-oriented), redis(key-value) 등이 있음
 
 > ## 3. In-Memory DB
->
-> `NoSQL 방식`에 속하는 데이터베이스이며, `Key-Value 방식`을 사용하고 있다.
+
+`NoSQL 방식`에 속하는 데이터베이스이며, `Key-Value 방식`을 사용하고 있다.
 
 ### 특징
 
